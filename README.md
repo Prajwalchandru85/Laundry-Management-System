@@ -1,8 +1,4 @@
-The extracted files reveal that this project is a **Laundry Management System** application, built in C# using Windows Forms (indicated by `.Designer.cs` and `.resx` files). The structure also includes a `README.md`, `.gitattributes`, and `.gitignore`, as well as a solution file `Mainp.sln`.
 
-Here’s a sample `README.md` you can use or modify for this project:
-
----
 
 # Laundry Management System
 
@@ -58,4 +54,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Let me know if you need further customization or additional sections in this `README.md`.
